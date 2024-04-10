@@ -109,17 +109,17 @@ namespace Ablaufkontrolle
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            throw new NotImplementedException();
+          
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
-            throw new NotImplementedException();
+            
         }
 
         private void textBox2_TextChanged(object sender, EventArgs e)
         {
-            throw new NotImplementedException();
+           
         }
 
         #endregion
